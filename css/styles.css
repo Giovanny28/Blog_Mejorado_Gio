@@ -47,7 +47,7 @@ h2 { /* Estilos para subtítulos */
 }
 
 .comment-form button:hover { /* Efecto cuando se pasa el ratón sobre el botón */
-  background: #555; /* Cambia a gris más claro */
+  background: #2699E6; /* Cambia a gris más claro */
 }
 
 .comment-form .btn-delete { /* Botón de borrar comentarios */
