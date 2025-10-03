@@ -4,7 +4,7 @@ window.onload = function() { // Se ejecuta automáticamente cuando la página te
   comentariosGuardados.forEach(c => mostrarComentario(c)); // Recorre cada comentario y lo muestra en pantalla
 }
 let pass = prompt("Introduce la contraseña para acceder al blog:");
-const passwordCorrecta = "1234";
+const passwordCorrecta = "4321";
 
 if (pass !== passwordCorrecta) {
     document.body.innerHTML = "<h1>Acceso denegado ❌</h1>";
