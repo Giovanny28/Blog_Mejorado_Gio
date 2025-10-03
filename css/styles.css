@@ -17,7 +17,7 @@ main { /* Estilos para el contenido principal */
   margin: 20px auto; /* Centra el contenido y deja 20px de margen arriba y abajo */
   background: white; /* Fondo blanco */
   padding: 20px; /* Espaciado interno de 20px */
-  border-radius: 10px; /* Bordes redondeados */
+  border-radius: 20px; /* Bordes redondeados */
   box-shadow: 0 2px 5px rgba(0,0,0,0.6); /* Sombra ligera alrededor */
 }
 
