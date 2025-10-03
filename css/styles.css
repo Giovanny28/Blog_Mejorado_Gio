@@ -51,7 +51,7 @@ h2 { /* Estilos para subtítulos */
 }
 
 .comment-form .btn-delete { /* Botón de borrar comentarios */
-  background: darkred; /* Fondo rojo oscuro */
+  background: #de2e03; /* Fondo rojo oscuro */
 }
 
 .comment-form .btn-delete:hover { /* Efecto hover para el botón de borrar */
