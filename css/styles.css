@@ -6,7 +6,7 @@ body { /* Estilos generales para toda la página */
 }
 
 header { /* Estilos para el encabezado */
-  background: #333; /* Fondo gris oscuro */
+  background: #32CD32; /* Fondo gris oscuro */
   color: white; /* Texto en color blanco */
   text-align: center; /* Centra el texto horizontalmente */
   padding: 1rem; /* Relleno interno de 1 unidad rem */
