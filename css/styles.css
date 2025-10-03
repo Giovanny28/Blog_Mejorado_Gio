@@ -14,10 +14,10 @@ header { /* Estilos para el encabezado */
 
 main { /* Estilos para el contenido principal */
   max-width: 800px; /* Ancho máximo de 800px */
-  margin: 20px auto; /* Centra el contenido y deja 20px de margen arriba y abajo */
+  margin: 30px auto; /* Centra el contenido y deja 20px de margen arriba y abajo */
   background: white; /* Fondo blanco */
-  padding: 20px; /* Espaciado interno de 20px */
-  border-radius: 20px; /* Bordes redondeados */
+  padding: 30px; /* Espaciado interno de 20px */
+  border-radius: 3020px; /* Bordes redondeados */
   box-shadow: 0 2px 5px rgba(0,0,0,0.6); /* Sombra ligera alrededor */
 }
 
