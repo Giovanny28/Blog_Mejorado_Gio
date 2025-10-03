@@ -18,7 +18,7 @@ main { /* Estilos para el contenido principal */
   background: white; /* Fondo blanco */
   padding: 20px; /* Espaciado interno de 20px */
   border-radius: 10px; /* Bordes redondeados */
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Sombra ligera alrededor */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.6); /* Sombra ligera alrededor */
 }
 
 h2 { /* Estilos para subtítulos */
@@ -40,7 +40,7 @@ h2 { /* Estilos para subtítulos */
 }
 
 .comment-form button { /* Estilos específicos para los botones */
-  background: #333; /* Fondo gris oscuro */
+  background: #000099; /* Fondo gris oscuro */
   color: white; /* Texto en blanco */
   border: none; /* Sin borde */
   cursor: pointer; /* El cursor cambia a "mano" al pasar sobre el botón */
